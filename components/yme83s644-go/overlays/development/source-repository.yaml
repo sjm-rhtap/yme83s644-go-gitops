@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: yme83s644-go-repository
+spec:
+  url: https://github.com/sjm-rhtap/yme83s644-go
